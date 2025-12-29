@@ -87,12 +87,11 @@ mindset: Build things that actually work in production
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Aryaneefds&show_icons=true&theme=tokyonight" />
+  <!-- AI -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="45"/>
+</p>
+<h2>📊 &nbsp;GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaneefds&layout=compact&theme=tokyonight" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="45"/>
-
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryaneefds&show_icons=true&theme=tokyonight" />
 </p>
@@ -100,6 +99,7 @@ mindset: Build things that actually work in production
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaneefds&layout=compact&theme=tokyonight" />
 </p>
+
 
 <!-- Snake animation -->
 ![Snake animation](https://github.com/Aryaneefds/Aryaneefds/blob/output/github-contribution-grid-snake.svg)
