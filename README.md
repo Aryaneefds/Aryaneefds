@@ -90,15 +90,11 @@ mindset: Build things that actually work in production
   <!-- AI -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="45"/>
 </p>
-<h2>📊 &nbsp;GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryaneefds&show_icons=true&theme=tokyonight" />
-</p>
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryaneefds&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaneefds&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaneefds&layout=compact&theme=tokyonight&hide_border=true)
 
 
 <!-- Snake animation -->
