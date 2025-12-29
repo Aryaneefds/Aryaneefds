@@ -90,15 +90,6 @@ mindset: Build things that actually work in production
   <!-- AI -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="45"/>
 </p>
-![Aryan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aryaneefds&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-## 📊 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/Aryaneefds?template=classic&base.activity,community,repositories,metadata&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aryaneefds&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
