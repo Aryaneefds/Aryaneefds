@@ -87,17 +87,10 @@ mindset: Build things that actually work in production
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 
-  <!-- AI -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="45"/>
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Aryaneefds&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaneefds&layout=compact&theme=tokyonight" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="45"/>
 
 <!-- GitHub Stats -->
 <p align="center">
