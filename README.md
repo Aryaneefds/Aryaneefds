@@ -62,7 +62,7 @@ interests:
   - Open Source
 
 mindset: Build things that actually work in production
-
+```
 <h2>🚀 &nbsp;Tools & Technologies I Use</h2>
 
 <p align="left">
