@@ -50,6 +50,7 @@ current_stack:
     - Docker
 
 languages:
+  - TypeScript
   - JavaScript
   - C
   - C++
