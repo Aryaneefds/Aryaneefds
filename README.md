@@ -26,7 +26,7 @@
 
 ```yaml
 name: Aryan Yadav
-role: Full Stack Developer
+role: Software Engineer
 
 focus:
   - Scalable Web Applications
